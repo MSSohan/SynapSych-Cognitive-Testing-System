@@ -123,7 +123,7 @@ flowchart TB
 
 <div align="center">
 
-**🔗 [synapsych.com](https://synapsych.com)** · **📘 [Full documentation](https://docs.google.com/document/d/1KZmfGBde86sarcK2dq3hSqRE46HU1qjh/edit)** · **More of my work: [github.com/MSSohan](https://github.com/MSSohan)**
+**🔗 [Synapsych](https://synapsych.com)** · **📘 [Documentation](https://docs.google.com/document/d/1KZmfGBde86sarcK2dq3hSqRE46HU1qjh/edit)** · **More of my work: [MSSohan](https://github.com/MSSohan)**
 
 <sub>The production source code is private. This repository is a showcase of the project.</sub>
 
